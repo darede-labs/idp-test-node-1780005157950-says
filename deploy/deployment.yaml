@@ -34,7 +34,7 @@ spec:
 
       containers:
         - name: app
-          image: 948881762705.dkr.ecr.us-east-1.amazonaws.com/idp-test-node-1780005157950-says:cf85f5dd2ae5e335b6767ed4bb8616b8d3fc6bfe
+          image: 948881762705.dkr.ecr.us-east-1.amazonaws.com/idp-test-node-1780005157950-says:751e4da1b78da38883e76fa2b80471b65e3f4a4d
           imagePullPolicy: Always
           ports:
             - name: http
